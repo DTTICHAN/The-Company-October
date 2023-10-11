@@ -1,0 +1,17 @@
+Actions folder ---> will hold the actions (code) perform by the program
+Assets folder --> will hold the images and the css files
+Classes folder --> will hold the class files
+Views folder --> will hold the html/php files
+
+
+
+
+----------------------------------------
+
+Github 
+name of our project folder ---   The-Company-October
+using git commands
+step1 initialize (初期化のこと)the project folder -- meaning set folder to become GIT REPO.resository とは倉庫のこと。
+local1 ----using the "git init" command.  git initと書く。
+
+step 2  run the command "git add ."　とかく。表示はされないが、データが
