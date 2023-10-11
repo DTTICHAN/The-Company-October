@@ -14,4 +14,13 @@ using git commands
 step1 initialize (初期化のこと)the project folder -- meaning set folder to become GIT REPO.resository とは倉庫のこと。
 local1 ----using the "git init" command.  git initと書く。
 
-step 2  run the command "git add ."　とかく。表示はされないが、データが
+step 2  run the command "git add ."　とかく。表示はされないが、データが一時的に保存される。
+
+step3 run the command <git cimmit -m "a any message here"> it going to create a snapshot of our staging area.
+
+step4 create the main branch using the command "git branch -M main"
+
+step 5 Connnect our local Git repo into our remote Git repo(Github) using the command "git  remote origin <url>"
+
+
+step 6 upload/or push our source code to the remote repo(Github repo)git push -u origin main
